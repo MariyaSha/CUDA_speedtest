@@ -13,7 +13,7 @@ The hardware I've tested:
 <br>
 <b>CPU</b> : Intel's i9-12900K 12th-Gen Alder Lake Processor (+5200mhz DDR5 memory)
 <br>
-<b>GPU</b> : Nvidia Geeforce RTX 3090
+<b>GPU</b> : Nvidia GeForce RTX 3090
 <br>
 <br>
 A special thank you to Robert from Nvidia for helping me with this notebook!

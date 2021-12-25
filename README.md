@@ -8,7 +8,8 @@ This notebook was uploaded to support a video tutorial on YouTube:
 <br>
 https://youtu.be/r9IqwpMR9TE
 <br>
-The hardware that was tested on my end:
+<br>
+The hardware I've tested:
 <br>
 <b>CPU</b> : Intel's i9-12900K 12th-Gen Alder Lake Processor (+5200mhz DDR5 memory)
 <br>
